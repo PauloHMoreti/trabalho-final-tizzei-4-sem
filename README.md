@@ -4,6 +4,17 @@ Repositório dedicado ao estudo prático, implementação modular e consolidaç�
 
 ---
 
+## 👥 Equipe e Responsabilidades
+
+| Integrante | Módulo |
+|------------|--------|
+| Pedro      | Módulo 1 |
+| Paulo      | Módulo 2 |
+| Angelo     | Módulo 3 |
+| Luis       | Módulo 4 |
+
+---
+
 ## 📌 Estratégia de Desenvolvimento
 
 O projeto adota uma abordagem em duas fases para garantir domínio conceitual e facilidade de depuração:
