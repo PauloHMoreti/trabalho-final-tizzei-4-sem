@@ -1,0 +1,54 @@
+### C++ build artifacts ###
+build/
+cmake-build-*/
+out/
+bin/
+obj/
+Debug/
+Release/
+debug/
+release/
+
+### Compiled files ###
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+### CMake generated files ###
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+Makefile
+
+### IDE and editor files ###
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+### Debugging and profiling ###
+*.dSYM/
+*.su
+*.stackdump
+core
+core.*
+
+### OS-generated files ###
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
