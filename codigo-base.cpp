@@ -30,6 +30,14 @@ struct NoLista {
     NoLista(Carga c) : carga(c), anterior(NULL), proximo(NULL) {}
 };
 
+// Estrutura que representa o Pátio (guarda os ponteiros do início e do fim)
+struct ListaPatio {
+    NoLista* inicio;
+    NoLista* fim;
+
+    ListaPatio() : inicio(NULL), fim(NULL) {}
+};
+
 // Nó para a Fila de Espera (Cargas Pendentes)
 struct NoFila {
     Carga carga;
@@ -56,6 +64,7 @@ struct NoPilha {
     NoPilha(Operacao o) : op(o), proximo(NULL) {}
 };
 
-int main(){
-	
+int main() {
+    // Ponto de entrada do sistema. O menu principal será implementado aqui.
+    return 0;
 }
